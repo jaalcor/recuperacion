@@ -1,0 +1,60 @@
+aside{
+    width: 1920px;
+    height: 893px;
+    padding: 2rem 4rem;
+}
+.do {
+    width: 1850px;
+    height: 9rem;
+    font-size: 54px;
+    text-align: center;    
+}
+.desing{
+    width: 1850px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.ux{
+  width:380px ;
+  height: 409px;
+  padding: 20px 40px;
+  margin: 61px;
+  flex-direction: row;
+  color: #FFFFFF;
+  background-color: #333333;
+}
+.ui{
+    font-size: 46px;
+    padding: 15px;
+}
+.ment{
+    font-size: 35px;
+    padding: 15px;
+}
+.user{
+    font-size: 18px;
+    padding: 20px;
+}
+.read{
+    font-size: 18px;
+    padding: 20px;
+}
+.graphic{
+    width:380px ;
+    height: 409px;
+    padding: 20px 40px;
+    margin: 61px;
+    flex-direction: row;
+    background-color: #D6D6D6;
+    
+}
+.deve{
+    width:380px ;
+    height: 409px;
+    padding: 20px 40px;
+    margin: 61px;
+    flex-direction: row;
+    background-color: #D6D6D6;
+}

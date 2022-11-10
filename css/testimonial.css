@@ -1,0 +1,47 @@
+section {
+    width: 1920px;
+    height: 1033px;
+    padding: 2rem 4rem;
+
+}
+.testimonial {
+    width: 1800px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+   
+}
+.client {
+    width: 1800px;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+
+}
+.señor {
+    width: 686px;
+    height: 700px;
+    padding: 20px;
+
+}
+.foto_señor{
+    width: 486px;
+    height: 589px;
+    padding: 0px;
+}
+.must{
+    padding: 40px;
+
+}
+.explain {
+    font-size: 40px;
+    margin: 90px;
+}
+.jared{
+    font-size: 28px;
+    margin: 80px;
+}
+.ceo{
+    font-size: 20px;
+    margin: 80px;
+}

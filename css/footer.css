@@ -1,0 +1,83 @@
+footer {
+    width: 1920px;
+    height: auto;
+    padding: 4rem 4rem;
+   
+}
+.next {
+    width: 1700px;
+    height: auto;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+   
+}
+.me{
+    font-size: 54px;
+}
+.amazing {
+    width: 1600px;
+    height: auto;
+    display: flex;
+    margin: 30px;
+    justify-content: space-between;
+    
+}
+.something{
+    width: 650px;
+    height: 546px;
+    margin: 40px;
+    
+}
+.explicacion {
+    padding: 55px;
+    text-align: start;
+    font-size: 40px;
+}
+.lista {
+    margin: 50px;
+    font-size: 20px;
+}
+.formulario {
+    width: 507px;
+    height: 546px;
+    margin: 30px;
+    font-size: 18px;
+    color: #FFFFFF;
+    background-color: #333333;
+}
+.punto_1{
+    margin: 70px;
+    
+}
+.boton_2{
+    width: 400px;
+    height: 100px;
+    margin: 300px;
+    padding: 25px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #333333;
+    background-color: #FFFFFF;
+}
+.media {
+    width: 1620px;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+.ozart{
+    margin: 40px;
+    font-size: 16px;
+}
+.social{
+    width: 650px;
+    height: 90px;
+   
+}
+.red{
+    height: 30px;
+    margin: 40px;
+    
+}

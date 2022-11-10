@@ -1,0 +1,79 @@
+nav {
+    width: 1920px;
+    height: 1947px;
+    padding: 2rem 4rem;
+    
+}
+.folio {
+    width: 1800px;
+    height: 180px;
+    font-size: 54px;
+    text-align: center;
+    
+}
+.porta{
+    font-size: 54px;
+}
+.all{
+    font-size: 30px;  
+    display: flex;
+    flex-direction: row;
+    padding: 10px; 
+}
+.ll{  
+    margin: 15px;
+}
+.fotos{
+    width: 1800px;
+    height: 1500px;
+    padding: 0px;
+    
+}
+.primeras {
+    width: 1800px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    
+}
+.señora{
+    width: 485px;
+    height: 525px;
+    margin: 32px;
+    flex-direction: row;
+}
+.computadora {
+    width: 485px;
+    height: 638px;
+    margin: 32px;
+    flex-direction: row;
+}
+.codigo{
+    width: 485px;
+    height: 419px;
+    margin: 32px;
+    flex-direction: row;
+}
+.segundas {
+    width: 1800px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    
+}
+.leche {
+    width: 485px;
+    height: 525px;
+    margin: 32px;
+    
+}
+.lapicero {
+    width: 485px;
+    height: 412px;
+    margin: 32px;
+}
+.change {
+    width: 485px;
+    height: 631px;
+    margin: 32px;
+}

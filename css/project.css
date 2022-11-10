@@ -1,0 +1,22 @@
+.project {
+    width: 1920px;
+    height: 616px;
+    padding: 2rem 4rem;
+    
+}
+.trabajos{
+    width: 1438px;
+    height: 356px;
+    margin: 150px;
+    text-align: center;
+    display: flex;
+    
+}
+.numeros{
+    margin: 80px;
+    font-size: 64px;
+}
+.descripcion{
+    margin: 80px;
+    font-size: 24px;
+}

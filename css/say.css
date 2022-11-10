@@ -1,0 +1,33 @@
+main  {
+    width: 1920px;
+    height: 591px;
+    padding: 2rem 4rem;
+    background-color: #363434;
+}
+.say {
+    width: 1800px;
+    height: 500px;
+    padding:100px, 200px, 100px, 200px ; 
+    text-align: center;
+    color: #FFFFFF;
+}
+.get {
+    margin: 30px;
+    font-size: 32px;
+}
+.solo {
+    font-size: 54px;
+}
+.boton_1 {
+
+    margin: 70px;
+}
+.boton {
+    width: 185px;
+    width: 75px;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 28px;
+    color: #363434;
+    background-color: #FFFFFF;
+}

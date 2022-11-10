@@ -1,0 +1,45 @@
+.blog {
+    width: 1920px;
+    height: auto;
+    padding: 2rem 4rem;
+   
+}
+.titulo{
+    width: 1262px;
+    height: auto;
+    margin: 200px;
+    text-align: center;
+    font-size: 54px;
+  
+}
+.products {
+    width: 1262px;
+    height: 599px;
+    margin: 200px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.producto {
+    width: 380px;
+    height: 337px;
+}
+.bloque{
+    width: 380px;
+    height: 254px;
+    color: #FFFFFF;
+    background-color: #333333;
+}
+.comentarios{
+    font-size: 14px;
+    padding: 25px;
+    
+}
+.color{
+    font-size: 24px;
+    margin: 27px;
+}
+.mas{
+    font-size: 18px;
+    margin: 30px;
+}
