@@ -2,12 +2,14 @@ aside{
     width: 1920px;
     height: 893px;
     padding: 2rem 4rem;
+
 }
 .do {
     width: 1850px;
     height: 9rem;
     font-size: 54px;
     text-align: center;    
+
 }
 .desing{
     width: 1850px;
@@ -15,6 +17,7 @@ aside{
     display: flex;
     justify-content: center;
     align-items: center;  
+  
 }
 .ux{
   width:380px ;

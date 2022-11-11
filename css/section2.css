@@ -9,7 +9,7 @@ nav {
     height: 180px;
     font-size: 54px;
     text-align: center;
-    
+
 }
 .porta{
     font-size: 54px;
@@ -27,14 +27,14 @@ nav {
     width: 1800px;
     height: 1500px;
     padding: 0px;
-    
+
 }
 .primeras {
     width: 1800px;
     height: auto;
     display: flex;
     flex-direction: row;
-    
+
 }
 .señora{
     width: 485px;
@@ -59,7 +59,7 @@ nav {
     height: auto;
     display: flex;
     flex-direction: row;
-    
+ 
 }
 .leche {
     width: 485px;

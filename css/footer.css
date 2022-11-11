@@ -10,7 +10,6 @@ footer {
     padding: 30px;
     font-size: 30px;
     text-align: center;
-   
 }
 .me{
     font-size: 54px;
@@ -21,7 +20,7 @@ footer {
     display: flex;
     margin: 30px;
     justify-content: space-between;
-    
+
 }
 .something{
     width: 650px;
@@ -58,14 +57,14 @@ footer {
     font-size: 14px;
     text-decoration: none;
     color: #333333;
-    background-color: #FFFFFF;
+    
 }
 .media {
     width: 1620px;
     height: 90px;
     display: flex;
     justify-content: space-between;
-  
+   
 }
 .ozart{
     margin: 40px;
